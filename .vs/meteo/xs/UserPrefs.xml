@@ -1,10 +1,11 @@
 ﻿<Properties StartupConfiguration="{9DC2F441-38DE-4604-8F87-C7795335F8BD}|Default">
-  <MonoDevelop.Ide.ItemProperties.meteo PreferredExecutionTarget="Android.Android_Accelerated_Nougat" FirstBuild="True" />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.meteo AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.Android_Accelerated_Nougat" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="meteo/MainActivity.cs">
     <Files>
       <File FileName="meteo/MainActivity.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.meteo.core FirstBuild="True" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
